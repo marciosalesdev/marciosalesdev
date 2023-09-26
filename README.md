@@ -1,4 +1,4 @@
-
+..
 ### Olá! Eu sou o Marcio Sales , desenvolvedor Back-and em Ascensão👋🏽
 
 
@@ -24,11 +24,11 @@
   <img align="center" alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> 
   <img align="center" alt="dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />  
- 
+  <img align="center" alt="python" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
   
  
  
- 
+ .................
  
  
   ## OS
