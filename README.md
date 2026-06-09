@@ -1,6 +1,6 @@
 <div align="left">
 
-<h1>Olá, eu sou o Marcio Sales 👋🏽</h1>
+<h1>Olá, eu sou o Marcio Sales </h1>
 
 <p>
   <strong>Desenvolvedor FullStack</strong> · Engenheiro de Software · Pós-graduado em Dev Full Stack & IA
@@ -15,6 +15,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcio-serra-sales-59b92426a/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mtechsolucoesemtecnologias@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://telegram.org/dl)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/marcio.sales_heventechslz/)
 
 ---
 
